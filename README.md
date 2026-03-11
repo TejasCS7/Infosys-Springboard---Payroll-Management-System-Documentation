@@ -407,9 +407,9 @@ Follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 **Tejas Gaikawad**
 - 🏢 Infosys Internship 4.0
-- 📧 [your-email@example.com]
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+- 📧 [tejasdgaikwad265@gmail.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tejas-gaikawad/)
+- 🐙 [GitHub](https://github.com/TejasCS7)
 
 ---
 
